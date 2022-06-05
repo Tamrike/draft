@@ -14,7 +14,17 @@ I am Tamara Lapkovich, I have been working as an accountant for 11 years. I deci
 HTML5, CSS3 Basics
 ****
 ### **Code example**
+``` 
+function multiplication (a, b) {
 
+       return a*b;
+
+       }
+       
+   let result = multiplication (7, 6);
+   
+   alert ( result ); 
+   ```
 ****
 ### **Work experience**
 I had no work experience and practice in Front-End Development
