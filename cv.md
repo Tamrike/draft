@@ -1,4 +1,4 @@
-# <table><tr><td bgcolor = #00FFFF>***Tamara Lapkovich***</td></tr></table>   
+# ***Tamara Lapkovich*** 
 
 > Ab abusu ad usum non valet consequentia.
 ****
