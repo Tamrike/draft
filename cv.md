@@ -1,9 +1,7 @@
 # ***Tamara Lapkovich*** 
 
-> Ab abusu ad usum non valet consequentia.
-****
 ###  **Contact me**
-* Tel: +37529179060
+* Tel: +37529179060*
 * E-mail: tamrike@gmail.com
 * Location: Minsk, Belarus
 ****
