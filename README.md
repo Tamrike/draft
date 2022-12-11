@@ -1,1 +1,1 @@
-https://tamrike.github.io/rsschool-cv/cv
+https://tamrik.github.io/rsschool-cv/cv
